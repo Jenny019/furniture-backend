@@ -2,7 +2,7 @@ package com.yelang.shop.alipay.shaxiang;
 
 public class AlipayConfig {
  
-	// 应用ID,您的APPID，收款账号既是您的APPID对应支付宝账号
+	// 应用ID,您的APPID，收款账号为您的APPID对应的支付宝账号
 	public static String app_id = "2016103000778556";
  
 	// 商户私钥，您的PKCS8格式RSA2私钥
